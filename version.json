@@ -1,6 +1,6 @@
 {
-  "latest": "0.6.0",
-  "download_url": "https://github.com/andywayde06/snippets-update-feed/releases/download/v0.6.0/Snippets-0.6.0-Setup.exe",
-  "release_notes": "New dark theme with amber and teal accents.\nInter and JetBrains Mono bundled for offline use.\nImproved dark-theme control contrast.",
-  "sha256": "2ea2b00fd4647d711d1d7b19d862142ead086077c802947a0e39f9608134463f"
+  "latest": "0.7.0",
+  "download_url": "https://github.com/andywayde06/snippets-update-feed/releases/download/v0.7.0/Snippets-0.7.0-Setup.exe",
+  "release_notes": "Free and Pro app icons and plan-specific window titles.",
+  "sha256": "a9de05842f8c80b44845fed9247fb0e663f628405f6598025395947d9d4b2112"
 }
