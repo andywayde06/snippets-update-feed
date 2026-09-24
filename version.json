@@ -1,6 +1,6 @@
 {
-  "latest": "0.7.0",
-  "download_url": "https://github.com/andywayde06/snippets-update-feed/releases/download/v0.7.0/Snippets-0.7.0-Setup.exe",
-  "release_notes": "Free and Pro app icons and plan-specific window titles.",
-  "sha256": "a9de05842f8c80b44845fed9247fb0e663f628405f6598025395947d9d4b2112"
+  "latest": "0.7.1",
+  "download_url": "https://github.com/andywayde06/snippets-update-feed/releases/download/v0.7.1/Snippets-0.7.1-Setup.exe",
+  "release_notes": "Fix Windows taskbar identity so the running app uses its Free or Pro icon.",
+  "sha256": "441fb09e6556c099201b05f7be610a533e92c374db785d2f77c496e50d48e3eb"
 }
