@@ -1,6 +1,6 @@
 {
-    "latest":  "0.8.0",
-    "download_url":  "https://github.com/andywayde06/snippets-update-feed/releases/download/v0.8.0/Snippets-0.8.0-Setup.exe",
-    "release_notes":  "License keys are recognised regardless of letter case or pasted spaces.\nThe License tab now refreshes the shared license-use count.",
-    "sha256":  "617f42564cd304607cdc929499931c49a9e4cd1fc0d2a573c7e3492e853078ec"
+    "latest":  "0.9.0",
+    "download_url":  "https://github.com/andywayde06/snippets-update-feed/releases/download/v0.9.0/Snippets-0.9.0-Setup.exe",
+    "release_notes":  "The Windows taskbar now shows the Pro icon when Pro is active.\nThe License page hides purchase information once Pro is activated.",
+    "sha256":  "d954cd5de3af853d5a8cf215f919c9fc28911d8718f74adc92ce7d7d8f5f6699"
 }
