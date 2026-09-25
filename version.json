@@ -1,6 +1,6 @@
 {
-  "latest": "0.7.1",
-  "download_url": "https://github.com/andywayde06/snippets-update-feed/releases/download/v0.7.1/Snippets-0.7.1-Setup.exe",
-  "release_notes": "Fix Windows taskbar identity so the running app uses its Free or Pro icon.",
-  "sha256": "441fb09e6556c099201b05f7be610a533e92c374db785d2f77c496e50d48e3eb"
+    "latest":  "0.8.0",
+    "download_url":  "https://github.com/andywayde06/snippets-update-feed/releases/download/v0.8.0/Snippets-0.8.0-Setup.exe",
+    "release_notes":  "License keys are recognised regardless of letter case or pasted spaces.\nThe License tab now refreshes the shared license-use count.",
+    "sha256":  "617f42564cd304607cdc929499931c49a9e4cd1fc0d2a573c7e3492e853078ec"
 }
