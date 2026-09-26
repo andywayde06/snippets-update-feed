@@ -14,15 +14,3 @@ Example:
 }
 
 The update feed is intended to be served over HTTPS using GitHub Pages.
-
-Updating the feed
-
-When releasing a new version of Snippets:
-
-Publish the new installer.
-Update latest in version.json.
-Set download_url to the new installer.
-Update the release notes.
-Commit and push the changes.
-
-The Snippets application will detect the new version the next time the user checks for updates.
