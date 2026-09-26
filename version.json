@@ -1,6 +1,6 @@
 {
-    "latest":  "1.0.0",
-    "download_url":  "https://github.com/andywayde06/snippets-update-feed/releases/download/v1.0.0/Snippets-1.0.0-Setup.exe",
-    "release_notes":  "New Pro feature: spelling and grammar checks with suggestions in the snippet editor.\nRight-click underlined text to apply a suggestion, ignore it, or add the word to your dictionary.",
-    "sha256":  "e262a478b4d264f0736c7390a207071d1e339fafd7f9557870e6b0608f3313cb"
+    "latest":  "1.1.0",
+    "download_url":  "https://github.com/andywayde06/snippets-update-feed/releases/download/v1.1.0/Snippets-1.1.0-Setup.exe",
+    "release_notes":  "New Pro feature: dynamic variables in snippets.\n- {{date}}, {{time}} and {{datetime}} insert the current local date and time. Add an offset such as {{date+7d}}, {{date-2w}}, {{time+30m}} or {{time+2h}}.\n- {{clipboard}} inserts your current clipboard text, and {{cursor}} places the text cursor where you want to continue typing.\n- Choose date and time formats in Settings, or give one variable its own format, e.g. {{date:dd.MM.yyyy}}.\n- The snippet editor highlights variables, offers an Insert variable menu and shows a live preview of the expanded text.\nVariables are resolved locally on your PC. Without Pro they are typed exactly as written.",
+    "sha256":  "ba87d078fa4ede808fe9e046eee470ebf83bcdf036f2654e1f95c5e791741e20"
 }
