@@ -1,6 +1,6 @@
 {
-    "latest":  "0.9.0",
-    "download_url":  "https://github.com/andywayde06/snippets-update-feed/releases/download/v0.9.0/Snippets-0.9.0-Setup.exe",
-    "release_notes":  "The Windows taskbar now shows the Pro icon when Pro is active.\nThe License page hides purchase information once Pro is activated.",
-    "sha256":  "d954cd5de3af853d5a8cf215f919c9fc28911d8718f74adc92ce7d7d8f5f6699"
+    "latest":  "1.0.0",
+    "download_url":  "https://github.com/andywayde06/snippets-update-feed/releases/download/v1.0.0/Snippets-1.0.0-Setup.exe",
+    "release_notes":  "New Pro feature: spelling and grammar checks with suggestions in the snippet editor.\nRight-click underlined text to apply a suggestion, ignore it, or add the word to your dictionary.",
+    "sha256":  "e262a478b4d264f0736c7390a207071d1e339fafd7f9557870e6b0608f3313cb"
 }
