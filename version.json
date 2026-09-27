@@ -1,6 +1,6 @@
 {
-    "latest":  "1.3.0",
-    "download_url":  "https://github.com/andywayde06/snippets-update-feed/releases/download/v1.3.0/Snippets-1.3.0-Setup.exe",
-    "release_notes":  "Smaller, faster downloads: the installer and updates are now about 42% smaller.\n\nMinor improvements and bug fixes.",
-    "sha256":  "3d7afde339a6c6fc5ca5a9c315eef7fd7217a6b852763797fddaf2a31f50c893"
+    "latest":  "1.3.2",
+    "download_url":  "https://github.com/andywayde06/snippets-update-feed/releases/download/v1.3.2/Snippets-1.3.2-Setup.exe",
+    "release_notes":  "Fixed a bug where error messages in the main window did not have a Close button\n\nMinor fixes and optimizations.",
+    "sha256":  "f89cbac06d20d74989827f1da92215a13bacca267a8d339e42fa88270eba0f78"
 }
