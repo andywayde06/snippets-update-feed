@@ -1,6 +1,6 @@
 {
-    "latest":  "1.3.2",
-    "download_url":  "https://github.com/andywayde06/snippets-update-feed/releases/download/v1.3.2/Snippets-1.3.2-Setup.exe",
-    "release_notes":  "Fixed a bug where error messages in the main window did not have a Close button\n\nMinor fixes and optimizations.",
-    "sha256":  "f89cbac06d20d74989827f1da92215a13bacca267a8d339e42fa88270eba0f78"
+    "latest":  "1.4.0",
+    "download_url":  "https://github.com/andywayde06/snippets-update-feed/releases/download/v1.4.0/Snippets-1.4.0-Setup.exe",
+    "release_notes":  "Redesigned the Statistics section (Pro): cards for time saved, expansions, keystrokes saved and characters inserted\n\nChoose Today, 7 days, 30 days or All time, with a comparison against the previous period\n\nMost-used snippets are now a ranked list with usage bars for the selected period",
+    "sha256":  "4c9463999cc782f8179aa3663dc4f4718a9a8a4a23ddd879cd60936a25df15b0"
 }
