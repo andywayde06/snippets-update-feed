@@ -1,6 +1,6 @@
 {
-    "latest":  "1.4.0",
-    "download_url":  "https://github.com/andywayde06/snippets-update-feed/releases/download/v1.4.0/Snippets-1.4.0-Setup.exe",
-    "release_notes":  "Redesigned the Statistics section (Pro): cards for time saved, expansions, keystrokes saved and characters inserted\n\nChoose Today, 7 days, 30 days or All time, with a comparison against the previous period\n\nMost-used snippets are now a ranked list with usage bars for the selected period",
-    "sha256":  "4c9463999cc782f8179aa3663dc4f4718a9a8a4a23ddd879cd60936a25df15b0"
+    "latest":  "1.5.0",
+    "download_url":  "https://github.com/andywayde06/snippets-update-feed/releases/download/v1.5.0/Snippets-1.5.0-Setup.exe",
+    "release_notes":  "The Folders tab is redesigned: your folders and their snippet counts sit beside the selected folder\u0027s snippets, with a filter, Rename and Delete\n\nSelect snippets in a folder and use Move to… to move them to another folder or to a new one\n\nThe snippet editor has a + button next to Folder, so you can create a folder without leaving the editor; it\u0027s created when you save the snippet\n\nEmpty folders now appear in the Snippets tab\u0027s folder filter, and folder names are unique regardless of capitalization",
+    "sha256":  "2771d59e18cb82578122db19f4e7ad836f6d2ec9310cbb6e9a64ca24e9b246b1"
 }
