@@ -1,6 +1,6 @@
 {
-    "latest":  "1.5.0",
-    "download_url":  "https://github.com/andywayde06/snippets-update-feed/releases/download/v1.5.0/Snippets-1.5.0-Setup.exe",
-    "release_notes":  "The Folders tab is redesigned: your folders and their snippet counts sit beside the selected folder\u0027s snippets, with a filter, Rename and Delete\n\nSelect snippets in a folder and use Move to… to move them to another folder or to a new one\n\nThe snippet editor has a + button next to Folder, so you can create a folder without leaving the editor; it\u0027s created when you save the snippet\n\nEmpty folders now appear in the Snippets tab\u0027s folder filter, and folder names are unique regardless of capitalization",
-    "sha256":  "2771d59e18cb82578122db19f4e7ad836f6d2ec9310cbb6e9a64ca24e9b246b1"
+    "latest":  "1.6.0",
+    "download_url":  "https://github.com/andywayde06/snippets-update-feed/releases/download/v1.6.0/Snippets-1.6.0-Setup.exe",
+    "release_notes":  "New to Snippets? A short guided tour now greets you on first launch: a spotlight walks you through + New snippet, each field in the editor and Save\n\nShort on ideas? Fill in an example sets up a ready-to-save \\_hello greeting in one click\n\nThe last step opens Notepad so you can try your new trigger, and the tour lets you know when it expands\n\nReplay the tour anytime from Snippets › Take the tour, or press Escape to leave it. If you already have snippets, it never starts on its own",
+    "sha256":  "4ee3bb219ff0de7a8e45d56103d037d2a85179f1c5cf4b4f3cda3a502533458f"
 }
