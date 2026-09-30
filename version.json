@@ -1,6 +1,6 @@
 {
-    "latest":  "1.6.0",
-    "download_url":  "https://github.com/andywayde06/snippets-update-feed/releases/download/v1.6.0/Snippets-1.6.0-Setup.exe",
-    "release_notes":  "New to Snippets? A short guided tour now greets you on first launch: a spotlight walks you through + New snippet, each field in the editor and Save\n\nShort on ideas? Fill in an example sets up a ready-to-save \\_hello greeting in one click\n\nThe last step opens Notepad so you can try your new trigger, and the tour lets you know when it expands\n\nReplay the tour anytime from Snippets › Take the tour, or press Escape to leave it. If you already have snippets, it never starts on its own",
-    "sha256":  "4ee3bb219ff0de7a8e45d56103d037d2a85179f1c5cf4b4f3cda3a502533458f"
+    "latest":  "1.7.0",
+    "download_url":  "https://github.com/andywayde06/snippets-update-feed/releases/download/v1.7.0/Snippets-1.7.0-Setup.exe",
+    "release_notes":  "Snippets can now include other snippets (Pro): {{snippet:_sig}} types the current text of your _sig snippet, so a signature or disclaimer shared by many replies is edited in one place\n\nPick one from Insert variable › Another snippet…, and the live preview shows the full result. Included snippets can use variables and include others too\n\nChange a trigger and the snippets that include it follow along; delete one and Snippets tells you which snippets use it\n\nA missing snippet or an include loop shows a message instead of expanding, so a half-finished reply never lands in your document",
+    "sha256":  "2b675454a0b87820a62b4f75fb319e2169ebda2cf7c19bdfcfc584e1eeb8d27f"
 }
