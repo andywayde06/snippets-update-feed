@@ -1,6 +1,6 @@
 {
-    "latest":  "1.7.0",
-    "download_url":  "https://github.com/andywayde06/snippets-update-feed/releases/download/v1.7.0/Snippets-1.7.0-Setup.exe",
-    "release_notes":  "Snippets can now include other snippets (Pro): {{snippet:_sig}} types the current text of your _sig snippet, so a signature or disclaimer shared by many replies is edited in one place\n\nPick one from Insert variable › Another snippet…, and the live preview shows the full result. Included snippets can use variables and include others too\n\nChange a trigger and the snippets that include it follow along; delete one and Snippets tells you which snippets use it\n\nA missing snippet or an include loop shows a message instead of expanding, so a half-finished reply never lands in your document",
-    "sha256":  "2b675454a0b87820a62b4f75fb319e2169ebda2cf7c19bdfcfc584e1eeb8d27f"
+    "latest":  "1.7.1",
+    "download_url":  "https://github.com/andywayde06/snippets-update-feed/releases/download/v1.7.1/Snippets-1.7.1-Setup.exe",
+    "release_notes":  "Including a snippet is easier with a big library: Insert variable › Another snippet… now opens a searchable list. Type part of a trigger or name, pick with the arrow keys and press Enter\n\nA preview shows the selected snippet\u0027s text and how long it is, and scrolls for long snippets. Disabled snippets are no longer offered\n\nLong dropdowns, such as Folder in the editor, now show 10 rows and scroll instead of running off the screen",
+    "sha256":  "ed3cb885ee9e3ab3d7f2f83e69439d36f0f9be7ddedca6b874c6c4d2042ae906"
 }
