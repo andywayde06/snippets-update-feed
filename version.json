@@ -1,6 +1,6 @@
 {
-    "latest":  "1.7.1",
-    "download_url":  "https://github.com/andywayde06/snippets-update-feed/releases/download/v1.7.1/Snippets-1.7.1-Setup.exe",
-    "release_notes":  "Including a snippet is easier with a big library: Insert variable › Another snippet… now opens a searchable list. Type part of a trigger or name, pick with the arrow keys and press Enter\n\nA preview shows the selected snippet\u0027s text and how long it is, and scrolls for long snippets. Disabled snippets are no longer offered\n\nLong dropdowns, such as Folder in the editor, now show 10 rows and scroll instead of running off the screen",
-    "sha256":  "ed3cb885ee9e3ab3d7f2f83e69439d36f0f9be7ddedca6b874c6c4d2042ae906"
+    "latest":  "1.8.0",
+    "download_url":  "https://github.com/andywayde06/snippets-update-feed/releases/download/v1.8.0/Snippets-1.8.0-Setup.exe",
+    "release_notes":  "Scrolling the Settings tab with the mouse wheel no longer changes the setting under the pointer, such as Typing speed: the page scrolls instead. Dropdowns elsewhere, such as Folder in the editor, work the same way\n\nSettings are grouped into cards. Expansion method and Trigger behavior are now explained choices, and settings that apply to only one of them, such as Typing speed or the clipboard restore delay, are greyed out until that choice is picked\n\nA bar at the bottom shows when you have unsaved changes, with Revert and Save settings (Ctrl+S). Leaving the tab, closing Snippets or updating with unsaved changes asks whether to save them first",
+    "sha256":  "4f13732ced20c275c0f851413b1f799999abf7c4f27004bb2299378a67e4053b"
 }
