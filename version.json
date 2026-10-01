@@ -1,6 +1,6 @@
 {
-    "latest":  "1.8.0",
-    "download_url":  "https://github.com/andywayde06/snippets-update-feed/releases/download/v1.8.0/Snippets-1.8.0-Setup.exe",
-    "release_notes":  "Scrolling the Settings tab with the mouse wheel no longer changes the setting under the pointer, such as Typing speed: the page scrolls instead. Dropdowns elsewhere, such as Folder in the editor, work the same way\n\nSettings are grouped into cards. Expansion method and Trigger behavior are now explained choices, and settings that apply to only one of them, such as Typing speed or the clipboard restore delay, are greyed out until that choice is picked\n\nA bar at the bottom shows when you have unsaved changes, with Revert and Save settings (Ctrl+S). Leaving the tab, closing Snippets or updating with unsaved changes asks whether to save them first",
-    "sha256":  "4f13732ced20c275c0f851413b1f799999abf7c4f27004bb2299378a67e4053b"
+    "latest":  "1.8.2",
+    "download_url":  "https://github.com/andywayde06/snippets-update-feed/releases/download/v1.8.2/Snippets-1.8.2-Setup.exe",
+    "release_notes":  "Importing shows what a file contains before anything is saved: new snippets, triggers you already use, new folders and disabled snippets. Choose whether to be asked about each used trigger, skip those snippets, or import them with a new trigger such as _sig2\n\nWhen you are asked about a used trigger, you can now do the same for all the remaining ones. New triggers continue a trailing number, so _reply1 becomes _reply2\n\nThe Backup card shows when you last backed up and to which file, and when Snippets last saved its automatic daily copy, with a link to that folder. Storage shows the size of your database\n\nBackup files are released straight away, so you can move or delete a backup while Snippets is running",
+    "sha256":  "dd5bc38e63f1d53f9992c0bade068825a52d4752ab46a7321e344f79689bba9f"
 }
