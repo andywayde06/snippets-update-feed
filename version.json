@@ -1,6 +1,6 @@
 {
-    "latest":  "1.8.2",
-    "download_url":  "https://github.com/andywayde06/snippets-update-feed/releases/download/v1.8.2/Snippets-1.8.2-Setup.exe",
-    "release_notes":  "Importing shows what a file contains before anything is saved: new snippets, triggers you already use, new folders and disabled snippets. Choose whether to be asked about each used trigger, skip those snippets, or import them with a new trigger such as _sig2\n\nWhen you are asked about a used trigger, you can now do the same for all the remaining ones. New triggers continue a trailing number, so _reply1 becomes _reply2\n\nThe Backup card shows when you last backed up and to which file, and when Snippets last saved its automatic daily copy, with a link to that folder. Storage shows the size of your database\n\nBackup files are released straight away, so you can move or delete a backup while Snippets is running",
-    "sha256":  "dd5bc38e63f1d53f9992c0bade068825a52d4752ab46a7321e344f79689bba9f"
+    "latest":  "1.8.3",
+    "download_url":  "https://github.com/andywayde06/snippets-update-feed/releases/download/v1.8.3/Snippets-1.8.3-Setup.exe",
+    "release_notes":  "Triggers with capital letters now expand reliably. Before, they could do nothing when Shift was the last key you let go\n\nSwitching Caps Lock on partway through a trigger no longer makes Snippets forget the part you had already typed",
+    "sha256":  "59f848c45aeacff62e98c4409c90e8fe071ce8ba251c54f8c356a654ff163034"
 }
